@@ -11,4 +11,4 @@
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/akın-ateş-248820353)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ak%C4%B1n-ate%C5%9F-248820353/?trk=opento_sprofile_details)
